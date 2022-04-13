@@ -1,5 +1,5 @@
-# DeepGNN
-Semi-supervised deep learning with graph neural network for cross-species regulatory sequence prediction
+# DeepGNN: Semi-supervised deep learning with graph neural network for cross-species regulatory sequence prediction
+
 
 ![alt text](Fig1_sketch_model.png)
 
@@ -8,3 +8,7 @@ We propose
 
 # Requirements
 
+
+
+# Contact: 
+raphael.mourad@univ-tlse3.fr
